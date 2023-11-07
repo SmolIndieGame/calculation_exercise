@@ -1,2 +1,2 @@
 # calculation_exercise
- Just a simple app to exercise calculation.
+ Just a simple flutter app to practice simple arithmetic
